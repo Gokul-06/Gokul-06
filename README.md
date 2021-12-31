@@ -1,8 +1,8 @@
 <h2 align="center">Hi, I'm Gokul Palanisamy  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-![Twitter Follow](https://img.shields.io/twitter/follow/rishika5000?style=social) 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social) 
-![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/beinggokulajith?style=social) 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp7MAhWks1xQaclOLx1Fg8Q?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/Gokul-06?style=social)
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/55435648/147823566-9c3f90d4-7f2f-48e0-85f5-f718c00279d5.gif"></h2>
 
