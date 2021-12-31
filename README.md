@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-I am Gokul Palanisamy, currently working as a Software Engineer [Commonwealth Bank](https://www.commbank.com.au/).Currently Working as a PEGA Developer and the youngest to win two global PEGA Hackathons within the age of 22. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am Gokul Palanisamy, currently working as a Software Engineer [Commonwealth Bank](https://www.commbank.com.au/).Currently Working as a PEGA Developer and the youngest to win two global PEGA Hackathons within the age of 21. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Super fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, Lets Start to fork and make some noises :D
 
