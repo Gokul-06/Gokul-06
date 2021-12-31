@@ -4,21 +4,14 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social) 
 ![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/55435648/147823566-9c3f90d4-7f2f-48e0-85f5-f718c00279d5.gif"></h2>
 
 <h2>About me</h2>
 
-I am Rishika Gupta, currently working as a Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am Gokul Palanisamy, currently working as a Software Engineer [Commonwealth Bank](https://www.commbank.com.au/).Currently Working as a PEGA Developer and the youngest to win two global PEGA Hackathons within the age of 22. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
-<h3>Summary</h3>
 
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
 <h2>🛠Tech Stack</h2>
 
@@ -41,15 +34,15 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Linkedin profiling tip 1: Fill your profile thoroughly👩‍💻](https://www.youtube.com/watch?v=EiQd2IOgrxg)
-- [My Github profile](https://www.youtube.com/watch?v=YlYp9-lvZq8)
-- [How to create attractive Github profile in 10 mins](https://www.youtube.com/watch?v=RlvLq62-jeY)
-- [Inheritance in C++ &lpar;Reference book- OOP with C++ by Balagurusamy&rpar;](https://www.youtube.com/watch?v=P4CEb1GKzDk)
-- [Personal branding and Profile building](https://www.youtube.com/watch?v=V9cFf3m_NwI)
+- [Manage Guided Tour](https://www.youtube.com/watch?v=AuRSAEEp9DI)
+- [Netflix Clone in PEGA](https://www.youtube.com/watch?v=9kfGVxKLpKw)
+- [Spotify Clone in PEGA](https://www.youtube.com/watch?v=SdqNg-qXgcw)
+- [E-kart Application in PEGA ](https://www.youtube.com/watch?v=mQpyfs2WijI)
+- [PEGA HACKATHON 2021- CAREER PATH](https://www.youtube.com/watch?v=QVZ53iUfBh4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
+▶ [...more YouTube videos](https://www.youtube.com/channel/UCp7MAhWks1xQaclOLx1Fg8Q/videos)
 
 
 
@@ -57,11 +50,10 @@ Frameworks, Platforms and Libraries
 📫Connect with me:
 
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/rishikagupta-rg/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/Rishika5000) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww) 
-[<img src="https://user-images.githubusercontent.com/39955420/147606108-506d542b-a344-43d3-a4a3-aadd775f5c0b.png" height="48" width="48">](https://www.polywork.com/rishikagupta)
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:rishika246813579@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/rishikagupta__/)
+[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/gokulp/) 
+[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/beinggokulajith) 
+[<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://www.youtube.com/channel/UCp7MAhWks1xQaclOLx1Fg8Q/videos) 
+[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:gokulajith80@gmail.com)
+[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/_gokulpalanisamy_/)
 
 
