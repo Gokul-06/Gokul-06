@@ -8,9 +8,22 @@
 
 <h2>About me</h2>
 
-I am Gokul Palanisamy, Computer Information System Grad student at [Boston University].Worked as a PEGA Developer and the youngest to win two global PEGA Hackathons within the age of 21. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
-⚡ Super fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, Lets Start to fork and make some noises :D
+Empowering Innovation through Data Analytics and Technology Integration 
+
+𝐁𝐀𝐂𝐊𝐆𝐑𝐎𝐔𝐍𝐃 : I bridge technology and business with a unique mix of advanced education and diverse experience. Holding a Master's in Computer Information Systems and a Bachelor's in Computer Science, I've also completed a business program at Dartmouth's Tuck School. Professionally, I've excelled in Digital Banking at JP Morgan and innovated in tech at Commonwealth Bank and Tata Consultancy Services, consistently pursuing excellence and transformation
+
+𝐒𝐓𝐑𝐄𝐍𝐆𝐓𝐇𝐒 : I specialize in blending data analytics with strategic technology, adept at transforming complex business requirements into practical tech solutions. My expertise spans from data manipulation in Python and R to developing Java applications, underpinned by agile project management and a focus on driving growth, efficiency, and innovation
+
+𝐊𝐄𝐘 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒:
+I excelled in Dartmouth's Tuck School PRE MBA program, mastering corporate finance and business analytics, and innovating in strategic analytics at JP Morgan, enhancing decision-making and efficiencies. I also led significant tech projects at Commonwealth Bank, driving major improvements
+
+𝐊𝐄𝐘 𝐀𝐑𝐄𝐀𝐒 𝐎𝐅 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄: 
+￭ Advanced-Data analysis & Visualization
+￭ Strategic Business-Technology Alignment
+￭ Agile & Scrum Project Management
+￭ Innovation in Fintech & Edu-tech
+
+Fueled by a passion for continuous improvement and innovation, I am dedicated to leveraging my interdisciplinary expertise to drive significant business transformations and technological advancements.
 
 
 <h2>🛠Tech Stack</h2>
