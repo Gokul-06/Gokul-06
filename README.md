@@ -22,6 +22,8 @@ I excelled in Dartmouth's Tuck School PRE MBA program, mastering corporate finan
 ￭ Strategic Business-Technology Alignment
 ￭ Agile & Scrum Project Management
 ￭ Innovation in Fintech & Edu-tech
+￭ AL/ ML Advocate!
+
 
 Fueled by a passion for continuous improvement and innovation, I am dedicated to leveraging my interdisciplinary expertise to drive significant business transformations and technological advancements.
 
