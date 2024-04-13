@@ -26,7 +26,6 @@ I excelled in Dartmouth's Tuck School PRE MBA program, mastering corporate finan
 
 
 Fueled by a passion for continuous improvement and innovation, I am dedicated to leveraging my interdisciplinary expertise to drive significant business transformations and technological advancements.
-<h2 align="center"><img src="https://www.canva.com/design/DAGA6ShY1WI/SG-8bnAmcPNMHaWVNdNFYg/view?utm_content=DAGA6ShY1WI&utm_campaign=designshare&utm_medium=link&utm_source=editor"></h2>
 
 
 <h2>🛠Tech Stack</h2>
