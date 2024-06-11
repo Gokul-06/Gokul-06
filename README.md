@@ -32,9 +32,6 @@ Fueled by a passion for continuous improvement and innovation, I am dedicated to
 
 
 
-Frameworks, Platforms and Libraries  
-![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
 [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
