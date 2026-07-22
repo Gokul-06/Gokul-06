@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gokul Palanisamy</h1>
-<h3 align="center">AI Strategy Consultant & Forward Deployment Engineer</h3>
+
+<p align="center">
+  <a href="https://github.com/Gokul-06">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=AI+Strategy+Consultant;Forward+Deployment+Engineer;Building+with+ML%2C+NLP+%26+LLMs;I+love+building+%26+coding+for+fun!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gokul-06&label=Profile%20views&color=4285F4&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gokulp/">
@@ -70,12 +79,35 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **AI-Powered Stock Prediction** | Stock-forecasting app using Retrieval-Augmented Generation over real-time financial data | Vertex AI · LLMs · RAG |
-| **Staples Inventory Management** | Natural-language interface that converts questions into SQL queries for inventory data | Google PaLM · LangChain · Hugging Face |
-| [**Humor Understanding**](https://github.com/Gokul-06/humor_understanding) | Exploring how language models interpret humor, idioms, and figurative language | Python · NLP · GPT |
-| [**WFH Analysis**](https://github.com/Gokul-06/wfh) | Data analysis on work-from-home trends and their impact | Python · Pandas · Data Viz |
+<i>Click each project to expand ⬇️</i>
+
+<details>
+  <summary><b>🤖 AI-Powered Stock Prediction</b> &nbsp;—&nbsp; <code>Vertex AI · LLMs · RAG</code></summary>
+  <br/>
+  A stock-forecasting application that uses <b>Retrieval-Augmented Generation</b> over real-time financial data to improve the accuracy and reliability of market-trend predictions.
+</details>
+
+<details>
+  <summary><b>📦 Staples Inventory Management</b> &nbsp;—&nbsp; <code>Google PaLM · LangChain · Hugging Face</code></summary>
+  <br/>
+  A natural-language interface that lets store managers query inventory data in plain English — it translates questions into SQL and uses Hugging Face embeddings with few-shot learning to forecast sales and optimize stock levels.
+</details>
+
+<details>
+  <summary><b>😂 Humor Understanding</b> &nbsp;—&nbsp; <code>Python · NLP · GPT</code></summary>
+  <br/>
+  Exploring how language models interpret humor, idioms, and figurative language.
+  <br/>
+  🔗 <a href="https://github.com/Gokul-06/humor_understanding">github.com/Gokul-06/humor_understanding</a>
+</details>
+
+<details>
+  <summary><b>🏠 WFH Analysis</b> &nbsp;—&nbsp; <code>Python · Pandas · Data Viz</code></summary>
+  <br/>
+  Data analysis on work-from-home trends and their impact.
+  <br/>
+  🔗 <a href="https://github.com/Gokul-06/wfh">github.com/Gokul-06/wfh</a>
+</details>
 
 ---
 
@@ -84,6 +116,26 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gokul-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-06&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-06&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gokul-06&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="95%" />
+</p>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
