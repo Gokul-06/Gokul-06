@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Palanisamy</h1>
-<h3 align="center">Data Scientist & Machine Learning Engineer | Turning data into decisions</h3>
+<h3 align="center">AI Strategy Consultant & Firqad Deployment Engineer Consultant</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gokulp/">
