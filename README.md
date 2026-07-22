@@ -21,6 +21,7 @@
 - 🧠 I build with **Machine Learning, NLP, and LLMs** — from RAG-powered applications to natural-language interfaces over data.
 - 💼 Experience across **JP Morgan Chase**, **Commonwealth Bank of Australia**, and **Tata Consultancy Services**.
 - ✍️ Founder of **PEGA4YOU** and **Gokul's Learning Lab** — educational platforms with 10,000+ participants, plus an ML/AI blog series followed by 2,000+ readers.
+- 🛠️ I **love building things and code for fun** — always tinkering with a new project, model, or idea just to see what I can make.
 - 📫 Reach me at **gokulajith80@gmail.com**
 
 ---
